@@ -1,7 +1,7 @@
 # MIMO Microstrip Patch Antenna for 5G Applications
 
 ## Overview
-This repository contains the design, simulation, and optimization details of a high-performance 2x2 MIMO (Multiple Input, Multiple Output) microstrip patch antenna optimized for 5G mmWave applications, specifically targeting the n261 (27.5-28.35 GHz) and n260 (37-40 GHz) bands. The antenna design is simulated using CST Studio Suite 2025, and a fuzzy logic-based optimization algorithm is implemented to tune the antenna's parameters for optimal performance. The accompanying PDF document and Python script provide comprehensive details on the antenna's specifications, performance metrics, optimization process, real-world applications, and future development prospects.
+This repository contains the design, simulation, and optimization details of a high-performance 2x2 MIMO (Multiple Input, Multiple Output) microstrip patch antenna optimized for 5G mmWave applications, specifically targeting the n261 (27.5-28.35 GHz) and n260 (37-40 GHz) bands. The antenna design is simulated using CST Studio Suite 2025, and a fuzzy logic-based optimization algorithm is implemented to tune the antenna's parameters for optimal performance.
 
 ## Summary
 ### Purpose
