@@ -43,3 +43,6 @@ Proposes a compact, high-gain MIMO microstrip patch antenna for 5G mmWave bands 
 
 ## Target Audience
 Researchers, engineers, and developers working on 5G, IoT, and wireless communication systems.
+
+## Additional Resources
+[Slide Summary & Results](https://drive.google.com/file/d/1RGO3bjqWcBas4lBV68njkeY3HrKepcPa/view?usp=sharing)
